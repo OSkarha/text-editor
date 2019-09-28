@@ -5,3 +5,9 @@ body{
     margin: 0;
     padding: 0;
 }
+
+.conteiner{
+    margin: 0 auto;
+    min-width: 1140px;
+    width: 96%;
+}
